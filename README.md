@@ -6,4 +6,4 @@ Este es un laboratorio del curso de fundamentos de devops
 
 ESte es un repositorio de prueba
 
-## Daniel Hinojosa
+## Daniel Hinojosa, Sebastian Salgado, Critian Luttgue
