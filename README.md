@@ -21,3 +21,8 @@ Javier Teillier, Ariel Veliz, Daniel Saez, Julio Soto
 - Claudio Galleguillos
 - Rodrigo Navarro 
 
+# Grupo 3
+. Erikson Fuenzalida
+. Eugenio Bravo
+. Marisleydis Socas
+. Daniela Julio
