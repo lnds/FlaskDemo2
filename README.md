@@ -7,3 +7,4 @@ Este es un laboratorio del curso de fundamentos de devops
 ESte es un repositorio de prueba
 
 Grupo 2: Jose Santelices, Matias Mayol, Daniel Concha, Franklin Cruces
+..
