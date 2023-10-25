@@ -6,9 +6,10 @@ Este es un laboratorio del curso de fundamentos de devops
 
 ESte es un repositorio de prueba
 
-# Integrantes del Grupo
-- Helena Alvarado
-- Ariel Pinto
-- Juan Barraza
-- Claudio Galleguillos
-- Rodrigo Navarro 
+### Integrantes Grupo por Claudio Galleguillos
+
+1. Helena Alvarado
+2. Ariel Pinto
+3. Juan Barraza
+4. Rodrigo Navarro
+5. Claudio Galleguillos
